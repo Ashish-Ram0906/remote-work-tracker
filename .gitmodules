@@ -1,0 +1,9 @@
+[submodule "client-daemon"]
+	path = client-daemon
+	url = https://github.com/Ashish-Ram0906/remote-work-tracker-daemon.git
+[submodule "backend-server"]
+	path = backend-server
+	url = https://github.com/Ashish-Ram0906/remote-work-tracker-backend.git
+[submodule "frontend-dashboard"]
+	path = frontend-dashboard
+	url = https://github.com/Ashish-Ram0906/remote-work-tracker-frontend.git
