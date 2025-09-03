@@ -57,7 +57,7 @@ git pull
 
 # Then, pull the latest changes for all the submodules
 git submodule update --remote --merge
-4. Project Documentation
+## 4. Project Documentation
 All detailed planning and technical documentation for this project is stored in this main repository, linked below for easy access.
 
 Core Documents
@@ -85,3 +85,4 @@ https://docs.google.com/document/d/1j-x35K42Udql48C-18I18K2XBM4ty7lE0-SG--NI8_s/
 
 Project Structure Guide: A guide to the file structure of each service.
 https://docs.google.com/document/d/1WNfCVM6hX4s68o1rLSBIn_wYm9hNGlAnMdnKdkrmSC8/edit?usp=sharing
+
